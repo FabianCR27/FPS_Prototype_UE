@@ -1,0 +1,3 @@
+C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Source\Final_Project_FC\Final_Project_FC.Build.cs
+C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Source\Final_Project_FC.Target.cs
+C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Source\Final_Project_FCEditor.Target.cs

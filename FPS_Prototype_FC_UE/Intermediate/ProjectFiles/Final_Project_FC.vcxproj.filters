@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Final_Project_FC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{258E40DE-2A34-4BB8-AEB2-70E9D0EAB256}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Final_Project_FC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Final_Project_FCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{00FD7AF8-D565-464A-8365-1659F6AA161B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Final_Project_FC">
+      <UniqueIdentifier>{38522C29-D258-4212-B923-34347869B36F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Final_Project_FC\Final_Project_FC.Build.cs">
+      <Filter>Source\Final_Project_FC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Final_Project_FC.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Final_Project_FC.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Final_Project_FCCharacter.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Final_Project_FCCharacter.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Final_Project_FCGameMode.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Final_Project_FCGameMode.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Final_Project_FCHUD.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Final_Project_FCHUD.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Final_Project_FCProjectile.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Final_Project_FCProjectile.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Character_Movement.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Power_Up.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Final_Project_FC\DoubleJump_PUP.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Final_Project_FC\DoorScript.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Ammo_Reload.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Final_Project_FC\Door_Real.h">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Character_Movement.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Power_Up.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Final_Project_FC\DoubleJump_PUP.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Final_Project_FC\DoorScript.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Ammo_Reload.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Final_Project_FC\Door_Real.cpp">
+      <Filter>Source\Final_Project_FC</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

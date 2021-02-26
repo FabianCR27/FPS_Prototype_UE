@@ -1,0 +1,7 @@
+C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Definitions.Final_Project_FC.h
+D:\Program Files (x86)\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files (x86)\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Source\Final_Project_FC/DoubleJump_PUP.h
+C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Source\Final_Project_FC\Power_Up.h
+C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Inc\Final_Project_FC\Power_Up.generated.h
+C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Inc\Final_Project_FC\DoubleJump_PUP.generated.h

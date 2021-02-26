@@ -1,0 +1,1296 @@
+﻿Log file open, 12/11/20 14:31:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Final_Project_FC
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.559267
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files (x86)/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Engine.ini]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Engine.ini]
+[2020.12.11-22.31.10:083][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Engine.ini]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.11-22.31.10:083][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Engine.ini]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.11-22.31.10:084][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Engine.ini]
+[2020.12.11-22.31.10:084][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Engine.ini]
+[2020.12.11-22.31.10:087][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.11-22.31.10:087][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.11-22.31.10:088][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.11-22.31.10:088][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.11-22.31.10:088][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.11-22.31.10:104][  0]LogHAL: Display: Platform has ~ 16 GB [17022177280 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.11-22.31.10:104][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.12.11-22.31.10:104][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.11-22.31.10:104][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:104][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.11-22.31.10:104][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.11-22.31.10:104][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:104][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.11-22.31.10:104][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.11-22.31.10:105][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.11-22.31.10:106][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-22.31.10:106][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.11-22.31.10:106][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.11-22.31.10:106][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.11-22.31.10:111][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.11-22.31.10:111][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.11-22.31.10:111][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Config/Windows/Engine.ini]
+[2020.12.11-22.31.10:111][  0]LogInit: Computer: LAPTOP-SO1VV00M
+[2020.12.11-22.31.10:111][  0]LogInit: User: fabia
+[2020.12.11-22.31.10:111][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.12.11-22.31.10:111][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.11-22.31.10:111][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.12.11-22.31.10:111][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.11-22.31.10:111][  0]LogMemory: Process Physical Memory: 99.86 MB used, 99.86 MB peak
+[2020.12.11-22.31.10:111][  0]LogMemory: Process Virtual Memory: 89.68 MB used, 89.68 MB peak
+[2020.12.11-22.31.10:111][  0]LogMemory: Physical Memory: 6118.26 MB used,  10115.36 MB free, 16233.61 MB total
+[2020.12.11-22.31.10:111][  0]LogMemory: Virtual Memory: 4660.87 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.12.11-22.31.10:307][  0]LogInit: Using OS detected language (en-US).
+[2020.12.11-22.31.10:307][  0]LogInit: Using OS detected locale (en-CA).
+[2020.12.11-22.31.10:308][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.11-22.31.10:504][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.11-22.31.10:585][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.11-22.31.10:585][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.11-22.31.12:733][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.11-22.31.12:733][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.11-22.31.12:819][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2020.12.11-22.31.12:819][  0]LogD3D11RHI:       5991/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.11-22.31.12:843][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.12.11-22.31.12:843][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.12.11-22.31.12:844][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.11-22.31.12:844][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.11-22.31.12:844][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.11-22.31.12:851][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.11-22.31.12:851][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.11-22.31.12:851][  0]LogWindows: EnumDisplayDevices:
+[2020.12.11-22.31.12:851][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2020.12.11-22.31.12:852][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.11-22.31.12:852][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.12.11-22.31.12:852][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+[2020.12.11-22.31.12:853][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.12.11-22.31.12:853][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.12.11-22.31.12:853][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2020.12.11-22.31.12:854][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.12.11-22.31.12:854][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2020.12.11-22.31.12:854][  0]LogD3D11RHI:   Driver Version: 457.09 (internal:27.21.14.5709, unified:457.09)
+[2020.12.11-22.31.12:854][  0]LogD3D11RHI:      Driver Date: 10-22-2020
+[2020.12.11-22.31.12:854][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2020.12.11-22.31.12:915][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.11-22.31.12:931][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.12.11-22.31.12:931][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.12.11-22.31.12:931][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.12.11-22.31.12:940][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.11-22.31.13:496][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.12.11-22.31.13:519][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.12.11-22.31.13:548][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.12.11-22.31.13:574][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.12.11-22.31.13:611][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.12.11-22.31.13:634][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.12.11-22.31.13:660][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.11-22.31.13:683][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.12.11-22.31.13:700][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.12.11-22.31.13:797][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.12.11-22.31.13:811][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.12.11-22.31.13:897][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.12.11-22.31.13:897][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.12.11-22.31.13:933][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.12.11-22.31.13:933][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.12.11-22.31.13:955][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.12.11-22.31.13:976][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.11-22.31.13:999][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.12.11-22.31.14:026][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.12.11-22.31.14:079][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.12.11-22.31.14:079][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.12.11-22.31.14:079][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.11-22.31.14:135][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.11-22.31.14:358][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Intermediate/Shaders/WorkingDirectory/18324/).
+[2020.12.11-22.31.14:358][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fabia/AppData/Local/Temp/UnrealShaderWorkingDir/7538C21A43322E92DD6910868A2DE7CA/'.
+[2020.12.11-22.31.14:369][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.11-22.31.14:369][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.11-22.31.14:369][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.11-22.31.16:465][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.11-22.31.16:512][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/fabia/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.12.11-22.31.16:512][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fabia/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.12.11-22.31.16:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.11-22.31.16:512][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.11-22.31.16:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.11-22.31.16:512][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.11-22.31.16:528][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.11-22.31.16:528][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.11-22.31.16:528][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.11-22.31.16:540][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fabia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.11-22.31.16:540][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.11-22.31.16:540][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.11-22.31.16:558][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.11-22.31.16:559][  0]LogSlate: Using FreeType 2.6.0
+[2020.12.11-22.31.16:572][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.11-22.31.17:379][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
+[2020.12.11-22.31.17:658][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.11-22.31.17:952][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.11-22.31.17:952][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.11-22.31.17:952][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.11-22.31.17:952][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.11-22.31.17:952][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.11-22.31.17:982][  0]LogNetVersion: Final_Project_FC 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4060748721)
+[2020.12.11-22.31.18:781][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.031603 seconds
+[2020.12.11-22.31.18:787][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.12.11-22.31.18:787][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.12.11-22.31.18:787][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.11-22.31.26:585][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.11-22.31.26:608][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.11-22.31.27:282][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.507 s
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: 
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\SceneComponent.cpp] [Line: 1786]
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: Stack: 
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff993c1cd89 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff992a54fa1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff99e2c81b2 UE4Editor-Final_Project_FC-8860.dll!UnknownFunction [C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Source\Final_Project_FC\Power_Up.cpp:22]
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff99589610f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff995895ead UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff995ad1056 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff995abedef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff99589a727 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff994ee4a2b UE4Editor-Core.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9950b5cb5 UE4Editor-Core.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9974a8d67 UE4Editor-Projects.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9974a8ff7 UE4Editor-Projects.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff62f067eb1 UE4Editor.exe!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff62f06d671 UE4Editor.exe!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff62f065377 UE4Editor.exe!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff62f0655ca UE4Editor.exe!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff62f07316c UE4Editor.exe!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff62f075b8e UE4Editor.exe!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9e4b67034 KERNEL32.DLL!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: [Callstack] 0x00007ff9e673d0d1 ntdll.dll!UnknownFunction []
+[2020.12.11-22.31.27:282][  0]LogOutputDevice: Error: 
+[2020.12.11-22.31.27:286][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2020.12.11-22.31.28:782][  0]LogStats:                    SendNewReport -  1.496 s
+[2020.12.11-22.31.28:782][  0]LogStats:             FDebug::EnsureFailed -  2.008 s
+[2020.12.11-22.31.29:325][  0]SourceControl: Source control is disabled
+[2020.12.11-22.31.29:325][  0]SourceControl: Source control is disabled
+[2020.12.11-22.31.29:338][  0]SourceControl: Source control is disabled
+[2020.12.11-22.31.29:350][  0]SourceControl: Source control is disabled
+[2020.12.11-22.31.29:843][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.11-22.31.30:636][  0]LogOcInput: OculusInput pre-init called
+[2020.12.11-22.31.31:355][  0]LogEngine: Initializing Engine...
+[2020.12.11-22.31.31:355][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.11-22.31.31:356][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.11-22.31.31:676][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.11-22.31.31:693][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.11-22.31.31:702][  0]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.31.31:785][  0]LogInit: FAudioDevice initialized.
+[2020.12.11-22.31.31:785][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.11-22.31.31:827][  0]LogDerivedDataCache: Saved boot cache 0.04s 74MB C:/Users/fabia/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.12.11-22.31.31:830][  0]LogInit: Texture streaming: Enabled
+[2020.12.11-22.31.31:881][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.11-22.31.31:923][  0]LogInit: Transaction tracking system initialized
+[2020.12.11-22.31.31:986][  0]BlueprintLog: New page: Editor Load
+[2020.12.11-22.31.32:259][  0]LocalizationService: Localization service is disabled
+[2020.12.11-22.31.32:867][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/' took 0.02s
+[2020.12.11-22.31.32:867][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.11-22.31.32:867][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.11-22.31.33:665][  0]SourceControl: Source control is disabled
+[2020.12.11-22.31.33:665][  0]Cmd: MAP LOAD FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.11-22.31.33:665][  0]LightingResults: New page: Lighting Build
+[2020.12.11-22.31.33:667][  0]MapCheck: New page: Map Check
+[2020.12.11-22.31.33:667][  0]LightingResults: New page: Lighting Build
+[2020.12.11-22.31.33:694][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.12.11-22.31.34:399][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.31.34:416][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.11-22.31.34:443][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.12.11-22.31.34:443][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.11-22.31.34:443][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2020.12.11-22.31.34:443][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.778
+[2020.12.11-22.31.34:560][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.31.34:566][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.31.34:572][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.31.34:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.31.34:597][  0]LogCollectionManager: Loaded 0 collections in 0.001056 seconds
+[2020.12.11-22.31.34:617][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Collections/' took 0.01s
+[2020.12.11-22.31.34:617][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/Developers/fabia/Collections/' took 0.00s
+[2020.12.11-22.31.34:617][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/Collections/' took 0.00s
+[2020.12.11-22.31.34:617][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.12.11-22.31.34:630][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 2739 classes and 661 folders.
+[2020.12.11-22.31.34:636][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.11-22.31.34:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:788][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:794][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:800][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:826][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:833][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.34:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.12.11-22.31.35:072][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.11-22.31.35:092][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.12.11-22.31.36:377][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.12.11-22.31.36:408][  0]LogSlate: Took 0.004400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.11-22.31.36:414][  0]LogSlate: Took 0.004336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.11-22.31.36:424][  0]LogSlate: Took 0.004971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.11-22.31.36:545][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2020.12.11-22.31.36:609][  0]LogSlate: Took 0.006481 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.11-22.31.36:706][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.11-22.31.36:706][  0]LogLoad: (Engine Initialization) Total time: 29.90 seconds
+[2020.12.11-22.31.36:706][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.11-22.31.36:753][  0]LogAssetRegistry: Asset discovery search completed in 19.3963 seconds
+[2020.12.11-22.31.36:755][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.12.11-22.31.36:755][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2020.12.11-22.31.36:757][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.11-22.31.38:069][  4]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.11-22.32.04:970][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.32.05:036][258]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.32.05:044][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.32.05:049][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-22.32.05:050][258]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:32:05 AM)
+[2020.12.11-22.32.05:062][258]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.32.05:104][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041654s)
+[2020.12.11-22.32.05:104][258]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.32.05:105][258]LogPlayLevel: PIE: World Init took: (0.000555s)
+[2020.12.11-22.32.05:105][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.042470s)
+[2020.12.11-22.32.05:131][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.12.11-22.32.05:140][258]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.32.05:149][258]LogInit: FAudioDevice initialized.
+[2020.12.11-22.32.05:185][258]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.32.05:189][258]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.32.05
+[2020.12.11-22.32.05:194][258]LogWorld: Bringing up level for play took: 0.007757
+[2020.12.11-22.32.05:214][258]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.11-22.32.05:219][258]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.158
+[2020.12.11-22.32.05:224][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.32.10:922][598]LogTemp: Warning: True
+[2020.12.11-22.32.25:738][487]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.32.25:738][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.32.25:776][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.32.25:777][487]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.32.25:806][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.32.25:808][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.12.11-22.32.25:850][489]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.12.11-22.32.29:267][694]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.32.36:502][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.32.36:618][129]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.32.36:628][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.32.36:628][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-22.32.36:628][129]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:32:36 AM)
+[2020.12.11-22.32.36:629][129]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.32.36:671][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042613s)
+[2020.12.11-22.32.36:672][129]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.32.36:672][129]LogPlayLevel: PIE: World Init took: (0.000625s)
+[2020.12.11-22.32.36:672][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.043393s)
+[2020.12.11-22.32.36:698][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.11-22.32.36:706][129]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.32.36:714][129]LogInit: FAudioDevice initialized.
+[2020.12.11-22.32.36:744][129]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.32.36:749][129]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.32.36
+[2020.12.11-22.32.36:749][129]LogWorld: Bringing up level for play took: 0.004955
+[2020.12.11-22.32.36:762][129]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.299
+[2020.12.11-22.32.36:762][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.32.51:592][ 18]LogTemp: Warning: True
+[2020.12.11-22.33.09:442][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.33.09:442][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.33.09:473][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.33.09:474][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.33.09:502][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.33.09:505][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.12.11-22.33.09:555][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.11-22.33.46:987][705]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.33.48:381][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.12.11-22.34.00:218][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.34.53:466][409]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2020.12.11-22.35.01:609][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ColorBlue" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/ColorBlue.uasset" SILENT=true
+[2020.12.11-22.35.01:621][888]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/ColorBlue7981BEC94172943496DAC8A24A323694.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/ColorBlue.uasset'
+[2020.12.11-22.35.01:700][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.12.11-22.35.01:727][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.12.11-22.35.01:750][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.11-22.35.03:327][979]LogAssetEditorManager: Opening Asset editor for Material /Game/ColorBlue.ColorBlue
+[2020.12.11-22.35.03:336][979]LogMaterial: Display: Missing cached shader map for material ColorBlue, compiling. 
+[2020.12.11-22.35.03:653][979]LogMaterial: Display: Missing cached shader map for material ColorBlue, compiling. 
+[2020.12.11-22.35.03:682][979]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.11-22.35.03:697][979]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.12.11-22.35.03:745][979]LogSlate: Took 0.007211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.11-22.35.03:980][986]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.11-22.35.04:608][ 17]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.11-22.35.04:822][ 28]LogSlate: Took 0.013347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.11-22.35.05:363][ 59]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.12.11-22.35.05:363][ 59]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2020.12.11-22.35.05:363][ 59]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.12.11-22.35.05:363][ 59]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.12.11-22.35.05:363][ 59]MaterialEditorStats: Texture samplers: 3/16
+[2020.12.11-22.35.08:235][230]LogMaterial: Display: Missing cached shader map for material ColorBlue, compiling. 
+[2020.12.11-22.35.08:255][230]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.11-22.35.08:259][230]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.12.11-22.35.08:507][243]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.11-22.35.09:042][273]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.11-22.35.09:804][316]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.12.11-22.35.09:804][316]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2020.12.11-22.35.09:804][316]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.12.11-22.35.09:804][316]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.12.11-22.35.09:804][316]MaterialEditorStats: Texture samplers: 3/16
+[2020.12.11-22.35.13:301][449]LogMaterial: Display: Missing cached shader map for material ColorBlue, compiling. 
+[2020.12.11-22.35.13:325][449]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.11-22.35.13:325][449]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.12.11-22.35.13:578][462]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.12.11-22.35.14:113][492]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.12.11-22.35.14:801][531]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.12.11-22.35.14:801][531]MaterialEditorStats: Base pass shader with Surface Lightmap: 138 instructions
+[2020.12.11-22.35.14:801][531]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.12.11-22.35.14:801][531]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.12.11-22.35.14:801][531]MaterialEditorStats: Texture samplers: 3/16
+[2020.12.11-22.35.16:191][614]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.11-22.35.22:227][976]LogMaterialEditor: Saving and Compiling material ColorBlue
+[2020.12.11-22.35.22:549][976]LogMaterial: Display: Missing cached shader map for material ColorBlue, compiling. 
+[2020.12.11-22.35.22:604][976]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.12.11-22.35.22:611][976]LogMaterial: Display: Missing cached shader map for material ColorBlue, compiling. 
+[2020.12.11-22.35.22:637][976]LogMaterial: Display: Missing cached shader map for material ColorBlue, compiling. 
+[2020.12.11-22.35.22:683][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.12.11-22.35.22:693][976]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.12.11-22.35.23:852][976]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.12.11-22.35.23:852][976]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.12.11-22.35.23:854][976]TextureStreamingBuild: Display: Compiling optional shaders took 1.170 seconds.
+[2020.12.11-22.35.23:882][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.12.11-22.35.26:116][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ColorBlue" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/ColorBlue.uasset" SILENT=true
+[2020.12.11-22.35.26:141][976]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/ColorBlue67DAF17746EEB7F23B8D228FAC093B8E.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/ColorBlue.uasset'
+[2020.12.11-22.35.27:339][ 42]LogSlate: Window 'ColorBlue' being destroyed
+[2020.12.11-22.35.27:343][ 42]LogSlate: Window 'ColorBlue' being destroyed
+[2020.12.11-22.35.32:559][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.35.34:078][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.12.11-22.35.35:365][513]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.35.36:556][581]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.35.36:764][593]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Power_UpMesh)
+[2020.12.11-22.35.37:913][661]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Power_UpMesh)
+[2020.12.11-22.35.38:018][667]LogEditorViewport: Clicking on Actor (double click): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.35.40:113][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.35.50:120][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.36.03:220][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.36.24:545][450]Cmd: TRANSACTION UNDO
+[2020.12.11-22.36.24:545][450]LogEditorTransaction: Undo Scale Actors
+[2020.12.11-22.36.24:906][471]Cmd: TRANSACTION UNDO
+[2020.12.11-22.36.24:906][471]LogEditorTransaction: Undo Scale Actors
+[2020.12.11-22.36.25:760][522]Cmd: TRANSACTION UNDO
+[2020.12.11-22.36.25:760][522]LogEditorTransaction: Undo Edit Static Mesh
+[2020.12.11-22.36.27:936][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.36.50:510][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.36.57:089][388]LogEditorViewport: Clicking on Actor (double click): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.36.58:026][441]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.36.58:153][448]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Power_UpMesh2)
+[2020.12.11-22.37.00:718][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.37.14:322][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.37.18:106][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.37.31:183][414]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.37.33:206][533]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.37.33:293][538]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Power_UpMesh2)
+[2020.12.11-22.37.36:899][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.37.39:265][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.12.11-22.37.40:125][942]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.37.40:696][973]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.37.41:716][ 32]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.37.41:852][ 38]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Power_UpMesh)
+[2020.12.11-22.37.43:513][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.37.52:864][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.12.11-22.37.53:875][753]LogEditorViewport: Clicking on Actor (LMB): DoubleJump_PUP (DoubleJump_PUP1)
+[2020.12.11-22.37.56:165][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.38.13:666][936]LogEditorViewport: Clicking on Actor (LMB): Power_Up (Power_Up2)
+[2020.12.11-22.38.15:728][ 56]Cmd: DELETE
+[2020.12.11-22.38.15:728][ 56]Cmd: ACTOR DELETE
+[2020.12.11-22.38.15:745][ 56]LogEditorActor: Deleted Actor: Power_Up
+[2020.12.11-22.38.15:771][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.12.11-22.38.15:772][ 56]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.12.11-22.39.09:476][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.39.30:553][954]LogSlate: Window 'Add C++ Class' being destroyed
+[2020.12.11-22.39.58:209][464]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_AI_C (EnemyCharacter_AI)
+[2020.12.11-22.39.58:383][469]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2020.12.11-22.40.00:229][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.40.03:198][752]LogAssetEditorManager: Opening Asset editor for BehaviorTree /Game/EnemyBT.EnemyBT
+[2020.12.11-22.42.03:905][110]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.11-22.42.03:905][110]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.12.11-22.42.04:243][110]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.12.11-22.42.04:860][110]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/BTTask_BlueprintBase_New.
+[2020.12.11-22.42.07:107][243]LogSlate: Window 'BTTask_BlueprintBase_New' being destroyed
+[2020.12.11-22.42.19:700][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.12.11-22.42.19:711][989]LogMetaData: Removing '/Game/RotateAI.SKEL_RotateAI_C' ref from Metadata '/Game/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.12.11-22.42.19:711][989]LogMetaData: Removing '/Game/RotateAI.RotateAI_C' ref from Metadata '/Game/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.12.11-22.42.19:727][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RotateAI" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset" SILENT=true
+[2020.12.11-22.42.19:731][989]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/RotateAI6ADF92BD4C81B817EDE02085C3F7741B.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset'
+[2020.12.11-22.42.19:846][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.11-22.42.19:874][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.11-22.42.19:902][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.11-22.42.20:014][994]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/RotateAI.
+[2020.12.11-22.42.35:763][933]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FindPlayerLocation.FindPlayerLocation
+[2020.12.11-22.44.21:998][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.12.11-22.44.22:319][884]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/FirstPersonExampleMap_Auto1D1833E6346CDF46EBE62A5ADFF7239EF.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.12.11-22.44.22:322][884]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.351
+[2020.12.11-22.44.22:322][884]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.351
+[2020.12.11-22.44.22:324][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnemyBT] ([1] browsable assets)...
+[2020.12.11-22.44.22:324][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyBT]
+[2020.12.11-22.44.22:324][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyBT" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/EnemyBT_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.12.11-22.44.22:333][884]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/EnemyBT_Auto1582D33DC4A1C517B07F3B4853EF9DB18.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/EnemyBT_Auto1.uasset'
+[2020.12.11-22.44.22:334][884]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RotateAI] ([1] browsable assets)...
+[2020.12.11-22.44.22:335][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/RotateAI]
+[2020.12.11-22.44.22:335][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RotateAI" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/RotateAI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.12.11-22.44.22:343][884]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/RotateAI_Auto129B6EF884B9398C4CD6315864B187CAA.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/RotateAI_Auto1.uasset'
+[2020.12.11-22.44.22:344][884]LogFileHelpers: Auto-saving content packages took 0.021
+[2020.12.11-22.45.18:334][115]Cmd: TRANSACTION UNDO
+[2020.12.11-22.45.18:334][115]LogEditorTransaction: Undo Rotate Components
+[2020.12.11-22.45.20:640][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.47.19:501][ 95]Cmd: TRANSACTION UNDO
+[2020.12.11-22.47.19:501][ 95]LogEditorTransaction: Undo Rotate Components
+[2020.12.11-22.47.20:287][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.47.56:885][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RotateAI" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset" SILENT=true
+[2020.12.11-22.47.56:896][324]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/RotateAIA5A137CE4915BF3B313E889A85302E88.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset'
+[2020.12.11-22.48.16:570][504]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.11-22.48.21:538][801]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.11-22.48.21:538][801]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/RotateAI_New.RotateAI_New
+[2020.12.11-22.48.21:779][801]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/RotateAI_New.
+[2020.12.11-22.48.28:151][176]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.12.11-22.48.29:600][176]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.11-22.48.29:661][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.12.11-22.48.42:619][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyBT" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/EnemyBT.uasset" SILENT=true
+[2020.12.11-22.48.42:629][952]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/EnemyBT418D1E6B4E4B54D287E7258B7FBD0C17.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/EnemyBT.uasset'
+[2020.12.11-22.48.45:282][111]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.48.45:294][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.48.45:296][111]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.11-22.48.45:296][111]LogPlayLevel: [PlayLevel] Compiling RotateAI before play...
+[2020.12.11-22.48.45:298][111]LogBlueprint: Error: [Compiler RotateAI] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2020.12.11-22.48.45:298][111]LogBlueprint: Warning: [Compiler RotateAI] [1058.49] Compile of RotateAI failed. 1 Fatal Issue(s) 0 Warning(s) [in 2 ms] (/Game/RotateAI.RotateAI)
+[2020.12.11-22.48.45:435][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.12.11-22.48.45:435][111]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2020.12.11-22.48.45:436][111]BlueprintLog: Blueprint RotateAI failed to compile
+[2020.12.11-22.48.48:513][111]LogSlate: Window 'Message' being destroyed
+[2020.12.11-22.49.24:013][230]BlueprintLog: New page: Compile RotateAI
+[2020.12.11-22.49.24:151][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.12.11-22.49.27:233][414]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.49.27:245][414]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.49.27:247][414]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-22.49.27:247][414]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:49:27 AM)
+[2020.12.11-22.49.27:247][414]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.49.27:288][414]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040740s)
+[2020.12.11-22.49.27:289][414]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.49.27:289][414]LogPlayLevel: PIE: World Init took: (0.000659s)
+[2020.12.11-22.49.27:289][414]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.041532s)
+[2020.12.11-22.49.27:318][414]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.12.11-22.49.27:326][414]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.49.27:335][414]LogInit: FAudioDevice initialized.
+[2020.12.11-22.49.27:360][414]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.49.27:363][414]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.49.27
+[2020.12.11-22.49.27:364][414]LogWorld: Bringing up level for play took: 0.002908
+[2020.12.11-22.49.27:376][414]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.316
+[2020.12.11-22.49.27:377][414]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.49.39:320][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.49.39:323][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.49.39:349][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.49.39:350][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.49.39:380][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.49.39:383][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.12.11-22.49.39:434][132]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.12.11-22.49.40:872][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.51.16:659][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RotateAI" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset" SILENT=true
+[2020.12.11-22.51.16:672][454]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/RotateAI368ED11E486FF9B0FC82A3B5B321EA5E.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset'
+[2020.12.11-22.51.19:808][642]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.51.19:820][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.51.19:822][642]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.11-22.51.19:823][642]LogPlayLevel: [PlayLevel] Compiling RotateAI before play...
+[2020.12.11-22.51.19:962][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.12.11-22.51.19:962][642]LogPlayLevel: PlayLevel: Blueprint regeneration took 139 ms (1 blueprints)
+[2020.12.11-22.51.19:962][642]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:51:19 AM)
+[2020.12.11-22.51.19:963][642]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.51.20:001][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039040s)
+[2020.12.11-22.51.20:002][642]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.51.20:002][642]LogPlayLevel: PIE: World Init took: (0.000874s)
+[2020.12.11-22.51.20:002][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040093s)
+[2020.12.11-22.51.20:034][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.12.11-22.51.20:043][642]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.51.20:052][642]LogInit: FAudioDevice initialized.
+[2020.12.11-22.51.20:083][642]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.51.20:086][642]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.51.20
+[2020.12.11-22.51.20:086][642]LogWorld: Bringing up level for play took: 0.003053
+[2020.12.11-22.51.20:100][642]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.038
+[2020.12.11-22.51.20:100][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.51.26:334][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.51.26:337][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.51.26:362][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.51.26:363][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.51.26:396][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.51.26:400][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.12.11-22.51.26:435][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.12.11-22.51.27:457][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.51.45:136][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RotateAI" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset" SILENT=true
+[2020.12.11-22.51.45:148][138]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/RotateAIB39CEF4C4B405B88A977A686C4B2E818.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset'
+[2020.12.11-22.51.46:118][196]BlueprintLog: New page: Compile RotateAI
+[2020.12.11-22.51.46:254][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.12.11-22.51.48:536][329]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.51.48:548][329]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.51.48:550][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-22.51.48:550][329]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:51:48 AM)
+[2020.12.11-22.51.48:550][329]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.51.48:591][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040308s)
+[2020.12.11-22.51.48:591][329]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.51.48:591][329]LogPlayLevel: PIE: World Init took: (0.000817s)
+[2020.12.11-22.51.48:592][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.041280s)
+[2020.12.11-22.51.48:625][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.12.11-22.51.48:632][329]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.51.48:640][329]LogInit: FAudioDevice initialized.
+[2020.12.11-22.51.48:666][329]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.51.48:670][329]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.51.48
+[2020.12.11-22.51.48:670][329]LogWorld: Bringing up level for play took: 0.003656
+[2020.12.11-22.51.48:684][329]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.378
+[2020.12.11-22.51.48:684][329]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.51.52:959][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.51.52:961][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.51.52:994][585]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.51.52:994][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.51.53:027][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.51.53:030][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.12.11-22.51.53:067][587]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.12.11-22.51.53:972][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.52.01:507][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.52.01:519][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.01:521][ 90]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.11-22.52.01:521][ 90]LogPlayLevel: [PlayLevel] Compiling RotateAI before play...
+[2020.12.11-22.52.01:657][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.12.11-22.52.01:657][ 90]LogPlayLevel: PlayLevel: Blueprint regeneration took 137 ms (1 blueprints)
+[2020.12.11-22.52.01:657][ 90]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:52:01 AM)
+[2020.12.11-22.52.01:657][ 90]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.52.01:695][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037899s)
+[2020.12.11-22.52.01:696][ 90]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.52.01:696][ 90]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2020.12.11-22.52.01:696][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.038661s)
+[2020.12.11-22.52.01:729][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.12.11-22.52.01:737][ 90]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.52.01:745][ 90]LogInit: FAudioDevice initialized.
+[2020.12.11-22.52.01:776][ 90]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.52.01:779][ 90]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.52.01
+[2020.12.11-22.52.01:780][ 90]LogWorld: Bringing up level for play took: 0.002921
+[2020.12.11-22.52.01:792][ 90]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.731
+[2020.12.11-22.52.01:792][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.05:312][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.05:315][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.52.05:345][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.52.05:346][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.05:376][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.52.05:379][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.12.11-22.52.05:427][303]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.12.11-22.52.06:505][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.52.12:701][735]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.52.12:714][735]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.12:716][735]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.11-22.52.12:716][735]LogPlayLevel: [PlayLevel] Compiling RotateAI before play...
+[2020.12.11-22.52.12:853][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.12.11-22.52.12:853][735]LogPlayLevel: PlayLevel: Blueprint regeneration took 137 ms (1 blueprints)
+[2020.12.11-22.52.12:853][735]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:52:12 AM)
+[2020.12.11-22.52.12:853][735]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.52.12:892][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038528s)
+[2020.12.11-22.52.12:892][735]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.52.12:892][735]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2020.12.11-22.52.12:892][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.039265s)
+[2020.12.11-22.52.12:921][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.12.11-22.52.12:930][735]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.52.12:938][735]LogInit: FAudioDevice initialized.
+[2020.12.11-22.52.12:964][735]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.52.12:967][735]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.52.12
+[2020.12.11-22.52.12:967][735]LogWorld: Bringing up level for play took: 0.003015
+[2020.12.11-22.52.12:980][735]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.081
+[2020.12.11-22.52.12:981][735]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.16:179][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.16:182][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.52.16:210][927]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.52.16:211][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.16:244][927]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.52.16:248][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.12.11-22.52.16:295][929]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.12.11-22.52.17:367][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.52.23:670][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RotateAI" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset" SILENT=true
+[2020.12.11-22.52.23:681][370]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/RotateAI56E0179248FC0CC739E73CA9C16F8B1F.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/RotateAI.uasset'
+[2020.12.11-22.52.25:719][490]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.52.25:732][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.25:734][490]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.11-22.52.25:735][490]LogPlayLevel: [PlayLevel] Compiling RotateAI before play...
+[2020.12.11-22.52.25:872][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.12.11-22.52.25:872][490]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2020.12.11-22.52.25:872][490]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:52:25 AM)
+[2020.12.11-22.52.25:872][490]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.52.25:911][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039192s)
+[2020.12.11-22.52.25:912][490]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.52.25:912][490]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2020.12.11-22.52.25:912][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040064s)
+[2020.12.11-22.52.25:943][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.12.11-22.52.25:949][490]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.52.25:957][490]LogInit: FAudioDevice initialized.
+[2020.12.11-22.52.25:983][490]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.52.25:986][490]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.52.25
+[2020.12.11-22.52.25:987][490]LogWorld: Bringing up level for play took: 0.002908
+[2020.12.11-22.52.25:999][490]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.938
+[2020.12.11-22.52.26:000][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.28:613][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.28:615][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.52.28:642][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.52.28:642][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.52.28:672][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.52.28:676][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.12.11-22.52.28:713][649]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.12.11-22.52.50:731][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.54.16:368][959]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.11-22.54.38:943][308]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.11-22.54.38:943][308]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.12.11-22.54.39:169][308]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/BTTask_BlueprintBase_New.
+[2020.12.11-22.54.55:297][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.12.11-22.54.55:302][266]LogMetaData: Removing '/Game/FollowPlayer.SKEL_FollowPlayer_C' ref from Metadata '/Game/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.12.11-22.54.55:302][266]LogMetaData: Removing '/Game/FollowPlayer.FollowPlayer_C' ref from Metadata '/Game/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.12.11-22.54.55:319][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FollowPlayer" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/FollowPlayer.uasset" SILENT=true
+[2020.12.11-22.54.55:321][266]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/FollowPlayer1E71394441AB49C80613BFB276F2C791.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/FollowPlayer.uasset'
+[2020.12.11-22.54.55:437][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.12.11-22.54.55:468][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.12.11-22.54.55:495][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.11-22.54.55:539][267]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/FollowPlayer.
+[2020.12.11-22.55.12:310][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.12.11-22.55.12:315][ 13]LogMetaData: Removing '/Game/PersuitPlayer.PersuitPlayer_C' ref from Metadata '/Game/FollowPlayer.PackageMetaData'
+[2020.12.11-22.55.12:315][ 13]LogMetaData: Removing '/Game/PersuitPlayer.SKEL_PersuitPlayer_C' ref from Metadata '/Game/FollowPlayer.PackageMetaData'
+[2020.12.11-22.55.12:332][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PersuitPlayer" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/PersuitPlayer.uasset" SILENT=true
+[2020.12.11-22.55.12:334][ 13]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/PersuitPlayer4A345DC64B0F12F7816702AE185FF740.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/PersuitPlayer.uasset'
+[2020.12.11-22.55.12:451][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.12.11-22.55.12:482][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.12.11-22.55.12:509][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.11-22.55.12:652][ 20]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/PersuitPlayer.
+[2020.12.11-22.56.09:435][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.12.11-22.56.09:756][ 78]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/FirstPersonExampleMap_Auto2164F34A64000CF3026CC81B9500B7A64.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.12.11-22.56.09:759][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.353
+[2020.12.11-22.56.09:759][ 78]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.353
+[2020.12.11-22.56.09:760][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnemyBT] ([1] browsable assets)...
+[2020.12.11-22.56.09:760][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyBT]
+[2020.12.11-22.56.09:760][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyBT" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/EnemyBT_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.12.11-22.56.09:770][ 78]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/EnemyBT_Auto23B26A81A40A1E44331379C821D466D63.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/EnemyBT_Auto2.uasset'
+[2020.12.11-22.56.09:771][ 78]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PersuitPlayer] ([1] browsable assets)...
+[2020.12.11-22.56.09:771][ 78]OBJ SavePackage: Finished generating thumbnails for package [/Game/PersuitPlayer]
+[2020.12.11-22.56.09:771][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PersuitPlayer" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/PersuitPlayer_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.12.11-22.56.09:778][ 78]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/PersuitPlayer_Auto2C9FA46614543B23C2F98A2BDE83C5359.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/PersuitPlayer_Auto2.uasset'
+[2020.12.11-22.56.09:779][ 78]LogFileHelpers: Auto-saving content packages took 0.019
+[2020.12.11-22.57.01:412][148]BlueprintLog: New page: Compile PersuitPlayer
+[2020.12.11-22.57.01:413][148]LogBlueprint: Warning: [Compiler PersuitPlayer] 'First Person Character' does not inherit from 'Player Controller' ( Cast To FirstPersonCharacter  would always fail).
+[2020.12.11-22.57.01:445][148]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.12.11-22.57.01:448][148]LogBlueprint: Warning: [Compiler PersuitPlayer] [1554.64] Compile of PersuitPlayer successful, but with 1 Warning(s) [in 36 ms] (/Game/PersuitPlayer.PersuitPlayer)
+[2020.12.11-22.58.06:682][ 45]BlueprintLog: New page: Compile PersuitPlayer
+[2020.12.11-22.58.06:712][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.12.11-22.58.37:226][870]BlueprintLog: New page: Compile PersuitPlayer
+[2020.12.11-22.58.37:258][870]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.12.11-22.59.23:246][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyBT" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/EnemyBT.uasset" SILENT=true
+[2020.12.11-22.59.23:256][787]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/EnemyBTEF9FAF1B4E6A0F0E4BC04DB470D1E040.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/EnemyBT.uasset'
+[2020.12.11-22.59.25:594][926]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.59.25:608][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.59.25:611][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-22.59.25:611][926]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:59:25 AM)
+[2020.12.11-22.59.25:611][926]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.59.25:651][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039486s)
+[2020.12.11-22.59.25:651][926]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.59.25:651][926]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2020.12.11-22.59.25:651][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040259s)
+[2020.12.11-22.59.25:682][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.12.11-22.59.25:689][926]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.59.25:697][926]LogInit: FAudioDevice initialized.
+[2020.12.11-22.59.25:725][926]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.59.25:728][926]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.59.25
+[2020.12.11-22.59.25:729][926]LogWorld: Bringing up level for play took: 0.003240
+[2020.12.11-22.59.25:742][926]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.681
+[2020.12.11-22.59.25:743][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.59.32:004][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.59.32:006][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.59.32:031][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-22.59.32:031][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.59.32:067][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-22.59.32:071][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.12.11-22.59.32:115][303]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.12.11-22.59.33:134][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-22.59.49:307][332]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-22.59.49:321][332]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-22.59.49:323][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-22.59.49:323][332]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 6:59:49 AM)
+[2020.12.11-22.59.49:323][332]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-22.59.49:363][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039728s)
+[2020.12.11-22.59.49:364][332]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-22.59.49:364][332]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2020.12.11-22.59.49:364][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.040479s)
+[2020.12.11-22.59.49:393][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.12.11-22.59.49:400][332]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-22.59.49:408][332]LogInit: FAudioDevice initialized.
+[2020.12.11-22.59.49:435][332]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-22.59.49:438][332]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-14.59.49
+[2020.12.11-22.59.49:439][332]LogWorld: Bringing up level for play took: 0.003070
+[2020.12.11-22.59.49:452][332]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.391
+[2020.12.11-22.59.49:452][332]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.00.21:583][258]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.00.21:585][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.00.21:615][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-23.00.21:615][258]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.00.21:650][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.00.21:653][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.12.11-23.00.21:701][260]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.12.11-23.02.08:225][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-23.02.42:632][794]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.11-23.03.04:311][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-23.03.04:326][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.03.04:328][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-23.03.04:328][ 91]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 7:03:04 AM)
+[2020.12.11-23.03.04:328][ 91]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-23.03.04:369][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040626s)
+[2020.12.11-23.03.04:370][ 91]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-23.03.04:370][ 91]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2020.12.11-23.03.04:370][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.041729s)
+[2020.12.11-23.03.04:402][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.11-23.03.04:409][ 91]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-23.03.04:418][ 91]LogInit: FAudioDevice initialized.
+[2020.12.11-23.03.04:446][ 91]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-23.03.04:449][ 91]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-15.03.04
+[2020.12.11-23.03.04:450][ 91]LogWorld: Bringing up level for play took: 0.003149
+[2020.12.11-23.03.04:462][ 91]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.599
+[2020.12.11-23.03.04:463][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.03.12:326][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.03.12:328][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.03.12:359][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-23.03.12:359][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.03.12:392][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.03.12:395][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.12.11-23.03.12:432][564]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.12.11-23.03.13:771][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-23.03.20:946][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyBT" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/EnemyBT.uasset" SILENT=true
+[2020.12.11-23.03.20:956][ 73]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/EnemyBTEFEA8A43432F26DD660D52A3F9C5B5B7.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/EnemyBT.uasset'
+[2020.12.11-23.03.29:986][614]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-23.03.30:000][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.03.30:002][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-23.03.30:002][614]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 7:03:30 AM)
+[2020.12.11-23.03.30:002][614]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-23.03.30:042][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040236s)
+[2020.12.11-23.03.30:043][614]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-23.03.30:043][614]LogPlayLevel: PIE: World Init took: (0.000736s)
+[2020.12.11-23.03.30:043][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.041156s)
+[2020.12.11-23.03.30:073][614]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.12.11-23.03.30:080][614]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-23.03.30:088][614]LogInit: FAudioDevice initialized.
+[2020.12.11-23.03.30:116][614]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-23.03.30:119][614]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-15.03.30
+[2020.12.11-23.03.30:119][614]LogWorld: Bringing up level for play took: 0.002784
+[2020.12.11-23.03.30:132][614]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 1.071
+[2020.12.11-23.03.30:132][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.03.50:711][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.03.50:714][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.03.50:742][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-23.03.50:743][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.03.50:775][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.03.50:779][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.12.11-23.03.50:811][850]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.12.11-23.04.26:045][181]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_AI_C (EnemyCharacter_AI)
+[2020.12.11-23.04.29:054][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-23.04.51:254][682]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemy_Brain_AI.Enemy_Brain_AI
+[2020.12.11-23.07.17:666][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.12.11-23.07.17:666][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.034
+[2020.12.11-23.07.17:668][ 94]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy_Brain_AI] ([1] browsable assets)...
+[2020.12.11-23.07.17:668][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy_Brain_AI]
+[2020.12.11-23.07.17:668][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Brain_AI" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/Enemy_Brain_AI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.12.11-23.07.17:683][ 94]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Enemy_Brain_AI_Auto3992E4DD64999240D93CD4EBD63FCF3B1.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/Enemy_Brain_AI_Auto3.uasset'
+[2020.12.11-23.07.17:685][ 94]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PersuitPlayer] ([1] browsable assets)...
+[2020.12.11-23.07.17:685][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/PersuitPlayer]
+[2020.12.11-23.07.17:685][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PersuitPlayer" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/PersuitPlayer_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.12.11-23.07.17:696][ 94]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/PersuitPlayer_Auto33261B4A64886367A9CC19A9385F7A5AB.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/Autosaves/Game/PersuitPlayer_Auto3.uasset'
+[2020.12.11-23.07.17:697][ 94]LogFileHelpers: Auto-saving content packages took 0.030
+[2020.12.11-23.08.22:445][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-23.08.28:086][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-23.08.30:484][131]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.12.11-23.08.31:124][167]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.12.11-23.08.32:033][221]LogEditorViewport: Clicking on Actor (LMB): EnemyCharacter_AI_C (EnemyCharacter_AI)
+[2020.12.11-23.08.33:210][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.12.11-23.08.35:260][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.12.11-23.08.35:904][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.12.11-23.08.36:571][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2020.12.11-23.08.37:345][532]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2020.12.11-23.09.11:612][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-23.09.11:686][579]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.12.11-23.09.11:689][579]Candidate modules for hot reload:
+[2020.12.11-23.09.11:689][579]  Final_Project_FC
+[2020.12.11-23.09.11:689][579]Launching UnrealBuildTool... [D:/Program Files (x86)/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Final_Project_FC,4845 Win64 Development -TargetType=Editor -Project="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Final_Project_FC.uproject" "C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Final_Project_FC.uproject"  -IgnoreJunk]
+[2020.12.11-23.09.11:690][579]Warning: Starting HotReload took  0.0s.
+[2020.12.11-23.09.33:372][879]CompilerResultsLog: New page: Compilation - Dec 11, 2020, 7:09:33 AM
+[2020.12.11-23.09.33:373][879]CompilerResultsLog: Creating makefile for Final_Project_FCEditor (ini files are newer than makefile)
+[2020.12.11-23.09.33:373][879]CompilerResultsLog: Parsing headers for Final_Project_FCEditor
+[2020.12.11-23.09.33:373][879]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Final_Project_FC.uproject" "C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\Final_Project_FCEditor\Development\Final_Project_FCEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.12.11-23.09.33:373][879]CompilerResultsLog: Reflection code generated for Final_Project_FCEditor in 18.0876698 seconds
+[2020.12.11-23.09.33:373][879]CompilerResultsLog: Using Visual Studio 2019 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.12.11-23.09.33:373][879]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.12.11-23.09.33:373][879]CompilerResultsLog:   [1/3] UE4Editor-Final_Project_FC-4845.lib
+[2020.12.11-23.09.33:373][879]CompilerResultsLog:      Creating library C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\UE4Editor-Final_Project_FC-4845.lib and object C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\UE4Editor-Final_Project_FC-4845.exp
+[2020.12.11-23.09.33:373][879]CompilerResultsLog:   [2/3] UE4Editor-Final_Project_FC-4845.dll
+[2020.12.11-23.09.33:373][879]CompilerResultsLog:      Creating library C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\UE4Editor-Final_Project_FC-4845.suppressed.lib and object C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\UE4Editor-Final_Project_FC-4845.suppressed.exp
+[2020.12.11-23.09.33:373][879]CompilerResultsLog:   [3/3] Final_Project_FCEditor.target
+[2020.12.11-23.09.33:373][879]CompilerResultsLog: Total time in Parallel executor: 0.75 seconds
+[2020.12.11-23.09.33:373][879]CompilerResultsLog: Total execution time: 21.61 seconds
+[2020.12.11-23.09.33:373][879]LogMainFrame: MainFrame: Module compiling took 21.686 seconds
+[2020.12.11-23.09.33:401][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.12.11-23.09.33:402][879]LogBlueprintActionDatabase: Requesting refresh due to module change: Final_Project_FC (unloaded)
+[2020.12.11-23.09.33:429][879]LogHotReload: Re-instancing DoubleJump_PUP after hot-reload.
+[2020.12.11-23.09.33:575][879]LogHotReload: Re-instancing Power_Up after hot-reload.
+[2020.12.11-23.09.33:711][879]LogBlueprintActionDatabase: Requesting refresh due to module change: Final_Project_FC (loaded)
+[2020.12.11-23.09.33:711][879]LogContentBrowser: Native class hierarchy updated for 'Final_Project_FC' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2020.12.11-23.09.33:715][879]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2020.12.11-23.09.33:884][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.12.11-23.09.33:885][879]LogBlueprintActionDatabase: Requesting refresh due to hot reload
+[2020.12.11-23.09.33:900][879]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2740 classes and 663 folders.
+[2020.12.11-23.09.33:900][879]Display: HotReload took 22.2s.
+[2020.12.11-23.09.36:992][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-23.09.37:013][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.09.37:015][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-23.09.37:015][ 51]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 7:09:37 AM)
+[2020.12.11-23.09.37:015][ 51]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-23.09.37:056][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040871s)
+[2020.12.11-23.09.37:057][ 51]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-23.09.37:057][ 51]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2020.12.11-23.09.37:057][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.041924s)
+[2020.12.11-23.09.37:110][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.12.11-23.09.37:117][ 51]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-23.09.37:126][ 51]LogInit: FAudioDevice initialized.
+[2020.12.11-23.09.37:155][ 51]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-23.09.37:158][ 51]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-15.09.37
+[2020.12.11-23.09.37:159][ 51]LogWorld: Bringing up level for play took: 0.002935
+[2020.12.11-23.09.37:172][ 51]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.11
+[2020.12.11-23.09.37:172][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.10.11:018][ 80]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.10.11:021][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.10.11:046][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-23.10.11:046][ 80]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.10.11:086][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.10.11:091][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.12.11-23.10.11:128][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.12.11-23.10.11:953][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-23.10.13:963][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PersuitPlayer" FILE="C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/PersuitPlayer.uasset" SILENT=true
+[2020.12.11-23.10.13:974][251]LogSavePackage: Moving 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Saved/PersuitPlayerE1AD4A2E40146B6FFA9F4686D77A35A6.tmp' to 'C:/Users/fabia/OneDrive/Documents/Unreal Projects/Final_Project_FC/Content/PersuitPlayer.uasset'
+[2020.12.11-23.11.17:803][367]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.11-23.11.17:823][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.11.17:825][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.11-23.11.17:825][367]PIE: New page: PIE session: FirstPersonExampleMap (Dec 11, 2020, 7:11:17 AM)
+[2020.12.11-23.11.17:825][367]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.12.11-23.11.17:865][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040197s)
+[2020.12.11-23.11.17:866][367]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.12.11-23.11.17:866][367]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2020.12.11-23.11.17:866][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.041023s)
+[2020.12.11-23.11.17:904][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.12.11-23.11.17:912][367]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.12.11-23.11.17:920][367]LogInit: FAudioDevice initialized.
+[2020.12.11-23.11.17:950][367]LogLoad: Game class is 'Final_Project_FCGameMode'
+[2020.12.11-23.11.17:953][367]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.12.11-15.11.17
+[2020.12.11-23.11.17:953][367]LogWorld: Bringing up level for play took: 0.002836
+[2020.12.11-23.11.17:967][367]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.905
+[2020.12.11-23.11.17:967][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.11.30:610][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.11.30:613][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.11.30:642][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.11-23.11.30:642][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.12.11-23.11.30:680][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-23.11.30:683][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.12.11-23.11.30:724][127]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.12.11-23.11.49:953][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.12.11-23.12.26:830][630]BlueprintLog: New page: Compile Enemy_Brain_AI
+[2020.12.11-23.12.27:000][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.12.11-23.12.40:305][427]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.11-23.13.00:541][639]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.11-23.13.00:881][639]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.340 s
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: 
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: Ensure condition failed: BlackboardDetailsView.IsValid() [File:D:\Build\++UE4\Sync\Engine\Source\Editor\BehaviorTreeEditor\Private\BehaviorTreeEditor.cpp] [Line: 348]
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: 
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: Stack: 
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff99f9d12d9 UE4Editor-BehaviorTreeEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff99f95134f UE4Editor-BehaviorTreeEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff99f931a29 UE4Editor-BehaviorTreeEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff99f9512a3 UE4Editor-BehaviorTreeEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff99f92d25b UE4Editor-BehaviorTreeEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff98b74b138 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff98b77b2f4 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff98b70ca14 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff98b7a121a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff98b7c3298 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff98b7befc9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff99f953a4c UE4Editor-BehaviorTreeEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff99f930686 UE4Editor-BehaviorTreeEditor.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff985e4a4a8 UE4Editor-ClassViewer.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff985e39a44 UE4Editor-ClassViewer.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff985e5521a UE4Editor-ClassViewer.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff985e4fb2e UE4Editor-ClassViewer.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff991f64021 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff991fe0301 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff991fcaaca UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff991fc0414 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9971db8e0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9971cef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9971dd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9971cc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9e4d6e858 USER32.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9e4d6e299 USER32.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9971de946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff62f055d3e UE4Editor.exe!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff62f06554c UE4Editor.exe!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff62f0655ca UE4Editor.exe!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff62f07316c UE4Editor.exe!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff62f075b8e UE4Editor.exe!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9e4b67034 KERNEL32.DLL!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: [Callstack] 0x00007ff9e673d0d1 ntdll.dll!UnknownFunction []
+[2020.12.11-23.13.00:881][639]LogOutputDevice: Error: 
+[2020.12.11-23.13.00:884][639]LogStats:                SubmitErrorReport -  0.000 s

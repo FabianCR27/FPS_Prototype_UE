@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Final_Project_FC-6243.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\Final_Project_FCEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Character_Movement.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\DoubleJump_PUP.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FC.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FCCharacter.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FCGameMode.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FCHUD.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FCProjectile.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Power_Up.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Character_Movement.gen.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\DoubleJump_PUP.gen.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FC.init.gen.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FCCharacter.gen.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FCGameMode.gen.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FCHUD.gen.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Final_Project_FCProjectile.gen.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Power_Up.gen.cpp.obj"
+"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\Default.rc2.res"
+/OUT:"C:\Users\fabia\OneDrive\Documents\Unreal Projects\Final_Project_FC\Intermediate\Build\Win64\UE4Editor\Development\Final_Project_FC\UE4Editor-Final_Project_FC-6243.lib"
+/INCLUDE:IMPLEMENT_MODULE_Final_Project_FC
